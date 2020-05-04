@@ -1,5 +1,5 @@
 /**
- * Author Jon Ross Ingley
+ * @author Jon Ross Ingley
  */
 
 import {FontTools} from './FontTools';
