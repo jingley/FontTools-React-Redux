@@ -1,5 +1,5 @@
 /**
-* @author Jon Ross Ingley
+* @author Jon Ross Ingley <jingley22@gmail.com>
 */
 export const FONT_UP = 'FONT_UP';
 export const FONT_DOWN = 'FONT_DOWN';

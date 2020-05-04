@@ -1,5 +1,5 @@
 /**
- * @author Jon Ross Ingley
+ * @author Jon Ross Ingley <jingley22@gmail.com>
  */
 
 import {FontTools} from './FontTools';

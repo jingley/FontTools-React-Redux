@@ -1,5 +1,5 @@
 /**
- * @author Jon Ross Ingley
+ * @author Jon Ross Ingley <jingley22@gmail.com>
  *
  * FontTools component
  * This component adds 2 buttons that allow for changes to the font size of a specified class.
