@@ -1,3 +1,7 @@
+/**
+* @author Jon Ross Ingley
+*/
+
 import {FONT_DOWN, FONT_UP} from '../actions/actions';
 
 const fontToolsReducer = (state={fontSizes: ['70%','80%','90%','100%','110%','120%','130%'],currentFontIndex: 3}, action) => {
