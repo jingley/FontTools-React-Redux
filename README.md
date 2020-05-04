@@ -1,4 +1,4 @@
-# Introdction
+# Introduction
 
 This component is designed with Redux and React to add font adjusting buttons to a React app.
 
