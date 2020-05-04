@@ -1,0 +1,23 @@
+.Font-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.FontTools button {
+    background-color: #8DAA9D;
+    font-size: 2.5vmin;
+    font-weight: bold;
+    border: none;
+    color: white;
+    padding: 1vmin 1vmin;
+    margin: 1vh 1vh;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    border-radius: 25px;
+    justify-content: center;
+    box-shadow: 2px 2px lightgray;
+}
