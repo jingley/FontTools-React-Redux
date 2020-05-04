@@ -1,3 +1,6 @@
+/**
+* @author Jon Ross Ingley
+*/
 export const FONT_UP = 'FONT_UP';
 export const FONT_DOWN = 'FONT_DOWN';
 
