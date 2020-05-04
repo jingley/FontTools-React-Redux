@@ -1,5 +1,5 @@
 /**
- * Author Jon Ross Ingley
+ * @author Jon Ross Ingley
  *
  * Connects FontTools component to redux store so that it can access the global font size prop
  */
