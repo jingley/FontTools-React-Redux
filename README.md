@@ -9,6 +9,8 @@ This component is designed with Redux and React to add font adjusting buttons to
 
 `fontControllingClass` is the className of the base element you want to control the font of. This is provided as a prop by the developer where the component is declared. Ex. `<FontTools fontControllingClass="App-Body"/>`
 
+### Declaration
+The component need only be declared once in a single page React app. This should be done on a template page all the components utilize.
 ### Styling
 Styles can be adjusted in the FontTools.css files to fit the theme of any app.
 
